@@ -1,6 +1,6 @@
 # vmmon-s-solution
-solution for can't load vmmon, which is caused by signature authentication.
-It seems that only vmware has this problem, while virtualbox has a window poped up to help you avoid this problem.
+solution for can't load vmmon, which is caused by signature authentication.  
+It seems that only vmware has this problem, while virtualbox has a window poped up to help you avoid this problem.  
 
 ***
 This article is reprint from https://blog.csdn.net/jinking01/article/details/82763968.
